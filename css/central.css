@@ -1,0 +1,12 @@
+.central {
+	background: #c0c0c0;
+	height: 166px;
+	left: 50%;
+	margin: -98px 0 0 -180px;
+	overflow: auto;
+	padding: 15px 20px;
+	position: absolute;
+	text-align: justify;
+    top: 40%;
+	width: 320px;
+}

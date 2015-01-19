@@ -1,0 +1,37 @@
+body {
+	background: #c0c0c0;
+	font-size: 13px;
+}
+#root {
+	background: #fff;
+	margin: 0 auto;
+	position: relative;
+	width: 500px;
+}
+#header {
+	background: #8fa09b;
+	border-left-width: 0;
+    color: #EDEED5;
+    font-size: 32px;
+    font-weight: bold;
+    height: 38px;
+    padding: 5px;
+}
+#content {
+	border-right: 1px dashed;
+	margin-right: 130px;
+}
+#sidebar {
+	padding: 25px 5px 25px 10px;
+	position: absolute;
+    right: 0;
+    top: 48px;
+    width: 115px;
+}
+#sidebar a {
+	line-height: 17px;
+	text-decoration: underline;
+}
+#footer {
+	background: #8fa09b;
+}

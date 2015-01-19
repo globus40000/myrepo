@@ -1,3 +1,3 @@
 # myrepo
 
-The first (initial) version of twinslash
+The new (layouts) version of twinslash

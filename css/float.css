@@ -1,0 +1,53 @@
+html {
+	overflow-y: auto;
+}
+body {
+	background: #54463d;
+}
+#root {
+	background: #f0f0f0;
+	width: 500px;
+	margin: 0 auto;
+}
+#header {
+	background: #8fa09b;
+	color: #edeed5;
+	font-size: 32px;
+    font-weight: bold;
+    padding: 5px;
+}
+#content {
+	background: #fff;
+	border-right: 1px dashed;
+	float: left;
+	padding: 22px 10px;
+	width: 329px;
+}
+#content h3 {
+	color: #752641;
+	font-size: 15px;
+	margin-bottom: 5px;
+}
+#content p {
+	font-size: 13px;
+	line-height: 17px;
+	margin-bottom: 12px;
+}
+#sidebar {
+	background: #f0f0f0;
+	float: left;
+	font-size: 13px;
+	padding: 24px 10px;
+	width: 130px;
+}
+#sidebar li {
+	line-height: 17px;
+	margin-bottom: 10px;
+}
+#footer {
+	background: #8fa09b;
+	clear: both;
+	color: #fff;
+	font-size: 13px;
+	padding: 6px 5px 5px 5px;
+}
